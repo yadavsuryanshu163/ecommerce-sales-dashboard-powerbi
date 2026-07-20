@@ -12,7 +12,8 @@ The **Suryanshu Ecommerce Sales Dashboard** is an interactive Power BI dashboard
 
 
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](<img width="592" height="332" alt="my_dashboard" src="https://github.com/user-attachments/assets/82194856-e5df-4213-a7df-37ac0ffa2208" />
+)
 
 ---
 
