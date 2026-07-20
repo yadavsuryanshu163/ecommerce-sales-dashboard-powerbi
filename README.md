@@ -10,7 +10,7 @@ The **Suryanshu Ecommerce Sales Dashboard** is an interactive Power BI dashboard
 
 ## Dashboard Preview
 
-> *Add a screenshot of the dashboard here.*
+
 
 ![Dashboard Preview](images/dashboard.png)
 
